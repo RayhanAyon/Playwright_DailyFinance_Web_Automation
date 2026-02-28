@@ -1,51 +1,5 @@
 # Playwright_DailyFinance_Web_Automation
 In this project , I have automated Some features of DailyFinance Website Playwright Javascript.
-This test simulates a user journey through key features of the Daily Finance platform:
-
-- ✅ **User Registration**
-- 📬 **Email Verification (Congratulations Mail)**
-- 🔔 **Toast Message Assertion**
-- 🔐 **User Login**
-- 🛒 **Add Random 2 Items to Item List**
-- 📋 **Verify Item Count**
-- 👤 **Update Profile Picture**
-- 🚪 **Logout**
-- 🔁 **Reset Password**
-- 🔓 **Login with New Password and Validate**
-
-📝 Test Scenario Summary
-- 📝 Register User & Verify Email
-- Register a new user with unique credentials
-
-**Assert that:
-
-✅ A "Congratulations" email is received
-
-✅ A toast notification appears confirming success
-
-- 🔐 Login & Add Items
-- Login with the new user
-
-- Add 2 random items
-
-- Assert that 2 items are shown on the list
-
-- 👤 Update Profile Picture
-- Go to profile settings
-
-- Upload a profile photo
-
-- 🔁 Reset Password Flow
-- Click on "Reset it here" from login page
-
-- Get reset link from Gmail
-
-- Set a new password
-
-- 🔓 Login with New Password
-- Login using the updated credentials
-
-- Verify successful login
 
 ## Problem scenario 
 1. Visit the site https://dailyfinance.roadtocareer.net/. Register a user and assert if the congratulation mail is sent and also assert the toast message
