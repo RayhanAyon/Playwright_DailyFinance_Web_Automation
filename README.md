@@ -36,6 +36,6 @@ In this project , I have automated Some features of DailyFinance Website Playwri
 <img width="992" height="357" alt="image" src="https://github.com/user-attachments/assets/a3d25ab1-c40b-4afc-895f-ab8e7b2e8bb0" />
 
 
-## Automation Script Report 
+## Recorded Video of the Automation Process 
 
 [**Click Here To See The Output Video**](https://drive.google.com/file/d/1cDJMw9kg8APoStHNgBw3XSYSYl7fVi4n/view?usp=sharing)
